@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Engravers Old English";
+  src: url("../public/OPTIEngraversOldEnglish.otf");
+}
+
+@font-face {
+  font-family: "Jellyka BeesAntique Handwriting";
+  src: url("../public/Speak\ Now.ttf");
+}
+
+@font-face {
+  font-family: "Taylor Swift Handwriting";
+  src: url("../public/Taylor\ Swift\ Handwriting.ttf");
+}
